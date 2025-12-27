@@ -3,13 +3,11 @@
 ## I'm Jhoan David Pillapa Llerena.
 
 ### 💻 &nbsp;About Me 
-
+- 🔭 &nbsp; I currently work at Telefónica Ecuador
 - 👓 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Electronic, Telecomunication and Networks Engineering. 
 
 <br>
-
-
 
 ### 💻 Stack I Work With
 
@@ -50,8 +48,6 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jhoandavidpll&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-
-  
 </td>
 
 <td width="50%" align="center">
