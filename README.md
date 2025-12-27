@@ -44,10 +44,8 @@
   
 <table border="0" align="center">
 <tr border="0">
-<td width="50%" align="center">
+<td width="25%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jhoandavidpll&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
 </td>
 
 <td width="50%" align="center">
@@ -64,16 +62,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
                                                                         
-<br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=jhoandavidpll&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
+## 📊 GitHub Stats
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhoandavidpll/jhoandavidpll/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhoandavidpll/jhoandavidpll/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jhoandavidpll/jhoandavidpll/output/github-contribution-grid-snake.svg" />
+</picture>
 
  <hr>
 
