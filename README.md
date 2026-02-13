@@ -79,7 +79,7 @@
  <p align="center">
 
 
-<a href="https://www.linkedin.com/in/jhoandavidpll/" target="_blank">
+<a href="https://www.linkedin.com/in/jhoandavidpll/" target="blank">
   <img align="center" alt="Jhoan Pillapa | Linkedin" width="24px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/413c53f9a58949b38132db470c3c0df5e53892f3/Assets/Linkedin.svg" />
   &nbsp;
   <a href="mailto:jhoandavid_cloud@gmail.com" >
