@@ -1,92 +1,55 @@
-### Hi there 👋
+# 👋 Hi, I'm Jhoan David Pillapa Llerena
 
-## I'm Jhoan David Pillapa Llerena.
+### **Telecommunications Engineer | Data Analyst | Automation Enthusiast**
 
-### 💻 &nbsp;About Me 
-- 🔭 &nbsp; I currently work at Telefónica Ecuador
-- 👓 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Electronic, Telecomunication and Networks Engineering. 
+I'm an **Electronic, Telecommunications, and Networks Engineer** based in Ecuador, currently working at **Telefónica Ecuador**. I specialize in leveraging data science and automation to solve complex engineering problems and optimize network performance.
 
-<br>
+---
 
-### 💻 Stack I Work With
+### 🔭 About Me
+- 💼 Currently optimizing processes at **Telefónica Ecuador**.
+- 👓 Exploring advanced Data Analytics, Cloud Computing, and DevOps.
+- 🎓 Graduated in **Electronic, Telecommunication and Networks Engineering**.
+- 🌐 Visit my personal portfolio: [portafolio.pjhoandavid.workers.dev](https://portafolio.pjhoandavid.workers.dev/en/)
 
-<br>
+---
 
-<p  align="center">
+### 🛠️ Technical Stack
 
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>   
- &nbsp;
-<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-  &nbsp;  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| **Data & AI** | ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D?style=flat&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white) |
 
 
-</p>
-<br>
+---
 
-
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-
-  
-  
-  
-<table border="0" align="center">
-<tr border="0">
-<td width="25%" align="center">
-  
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jhoandavidpll&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+### 📊 GitHub Analytics
 
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhoandavidpll/jhoandavidpll/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhoandavidpll/jhoandavidpll/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jhoandavidpll/jhoandavidpll/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-                                                                        
-## 📊 GitHub Stats
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhoandavidpll/jhoandavidpll/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhoandavidpll/jhoandavidpll/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jhoandavidpll/jhoandavidpll/output/github-contribution-grid-snake.svg" />
-</picture>
+### 📫 Connect with me
 
- <hr>
-
-
-  <div align="center">
-  <h3><b>😎 Can Connect With Me On</b></h3>
- 
- <p align="center">
-
-
-<a href="https://www.linkedin.com/in/jhoandavidpll/" target="_blank">
-  <img align="center" alt="Jhoan Pillapa | Linkedin" width="24px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/413c53f9a58949b38132db470c3c0df5e53892f3/Assets/Linkedin.svg" />
-  &nbsp;
-  <a href="mailto:jhoandavid_cloud@gmail.com" >
-  <img align="center" alt="Jhoan Pillapa | outlook" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/refs/heads/master/png/256/outlook.png" />
-</a> 
-</p>
-
- </div>
-
-  
+<div align="center">
+  <a href="https://www.linkedin.com/in/jhoandavidpll/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jhoandavid_cloud@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portafolio.pjhoandavid.workers.dev/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
